@@ -1,7 +1,6 @@
 # Freshcury 🛒
 
-**Freshcury** is a fully responsive and modern frontend e-commerce website built using **HTML**, **CSS**, **JavaScript**, and **React**. It showcases a complete UI for an online store, including product listings, cart system, login/register pages, and more — perfect for demonstrating frontend skills and UI design.
-
+FreshCery is a modern, responsive full-stack web application designed to provide users with a seamless online grocery shopping experience. It allows users to browse grocery items, add them to a cart, place orders, and track deliveries — all in a user-friendly interface.
 ---
 
 ## 📸 Preview
@@ -20,15 +19,30 @@
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
+Frontend:
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **React JS** (optional pages/components)
-- **Formspree** – for secure contact form handling
+HTML5, CSS3, JavaScript (or React.js)
 
----
+Bootstrap / TailwindCSS (optional)
+
+Backend:
+
+Node.js with Express.js / PHP
+
+RESTful APIs for frontend-backend communication
+
+Database:
+
+MongoDB / MySQL
+
+Other:
+
+Git & GitHub for version control
+
+Authentication: JWT / Sessions
+
+Hosting: GitHub Pages / Render / Heroku / Vercel
 
 
 
